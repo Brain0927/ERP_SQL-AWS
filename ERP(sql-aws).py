@@ -1,4 +1,4 @@
-#user Brain SHI
+#user Brain Shi
 from tkinter import ttk
 from tkinter import messagebox
 import tkinter as tk
